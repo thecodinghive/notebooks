@@ -10,6 +10,6 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
-    - sklearn
+    - scikit-learn
     - pydotplus
     - xgboost
