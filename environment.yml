@@ -1,10 +1,11 @@
-name: example-environment
+name: thecodinghive-notebooks
 channels:
   - conda-forge
 dependencies:
   - python
   - numpy
   - graphviz
+  - scikit-learn
   - pip:
     - nbgitpuller
     - sphinx-gallery
