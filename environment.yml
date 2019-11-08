@@ -6,11 +6,11 @@ dependencies:
   - numpy
   - graphviz
   - scikit-learn
+  - pip
   - pip:
     - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
-    - scikit-learn
     - pydotplus
     - xgboost
